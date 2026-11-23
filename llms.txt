@@ -1,0 +1,47 @@
+# Sleepwalker
+
+> A mythic science-fiction story of seven children, an impossible book and ruins on distant worlds that answer their dreams.
+
+
+
+- [About Sleepwalker](https://sleepwalker.in/about/index.md): A mythic science-fiction graphic novel by Harsh Joshi, with an inquiry into its Vedic world and methods for making it. ([HTML](https://sleepwalker.in/about/))
+
+- [Blog](https://sleepwalker.in/blog/index.md): Standalone essays on cosmic scale and the craft of making a story. ([HTML](https://sleepwalker.in/blog/))
+
+- [The several orders of a story](https://sleepwalker.in/blog/information-architecture-for-a-story/index.md): One bell rings at noon; changing the event, a witness's belief or the reader's discovery leads to three different stories. ([HTML](https://sleepwalker.in/blog/information-architecture-for-a-story/))
+
+- [The world inside a breath](https://sleepwalker.in/blog/the-world-inside-a-breath/index.md): An unbounded cosmic breath and a finite human interval open a creative question: how does a witness encounter a world larger than their own frame? ([HTML](https://sleepwalker.in/blog/the-world-inside-a-breath/))
+
+- [An image is a beginning](https://sleepwalker.in/collections/creative-methods/from-frame-to-sequence/an-image-is-a-beginning/index.md): A generated frame reveals a relation worth keeping. Composition, spatial conditioning and refinement give that discovery a way to develop. ([HTML](https://sleepwalker.in/collections/creative-methods/from-frame-to-sequence/an-image-is-a-beginning/))
+
+- [Keeping a character through a sequence](https://sleepwalker.in/collections/creative-methods/from-frame-to-sequence/continuity-is-more-than-a-seed/index.md): A person approaches a doorway through changing views and material registers; recognition makes the variation expressive. ([HTML](https://sleepwalker.in/collections/creative-methods/from-frame-to-sequence/continuity-is-more-than-a-seed/))
+
+- [From frame to sequence](https://sleepwalker.in/collections/creative-methods/from-frame-to-sequence/index.md): Carry a visual choice through character continuity into the reader's inference between panels. ([HTML](https://sleepwalker.in/collections/creative-methods/from-frame-to-sequence/))
+
+- [What happens between the panels](https://sleepwalker.in/collections/creative-methods/from-frame-to-sequence/the-gutter-is-an-inference/index.md): A door opens between two images. Panel order, withheld action and the physical page shape the relation the reader supplies. ([HTML](https://sleepwalker.in/collections/creative-methods/from-frame-to-sequence/the-gutter-is-an-inference/))
+
+- [Creative methods](https://sleepwalker.in/collections/creative-methods/index.md): How visual intention, generative tools and structured continuity can support deliberate making. ([HTML](https://sleepwalker.in/collections/creative-methods/))
+
+- [Words and the space around them](https://sleepwalker.in/collections/creative-methods/words-and-the-space-around-them/index.md): The same sentence can name a different witness when its balloon moves; an invented mark can acquire meaning in the interval between panels. ([HTML](https://sleepwalker.in/collections/creative-methods/words-and-the-space-around-them/))
+
+- [Thoughts](https://sleepwalker.in/collections/index.md): Two connected inquiries: the Vedic world and the methods of creative expression. ([HTML](https://sleepwalker.in/collections/))
+
+- [Following a symbol through its transformations](https://sleepwalker.in/collections/vedic-world-inquiry/following-a-symbol-through-its-transformations/index.md): Following inward sound towards silence reveals a movement of attention that an isolated definition of a symbol would miss. ([HTML](https://sleepwalker.in/collections/vedic-world-inquiry/following-a-symbol-through-its-transformations/))
+
+- [The Vedic-world inquiry](https://sleepwalker.in/collections/vedic-world-inquiry/index.md): Markandeya's changing encounters and the movement of inward sound open questions about scale, attention and devotion. ([HTML](https://sleepwalker.in/collections/vedic-world-inquiry/))
+
+- [Through Markandeya's encounters](https://sleepwalker.in/collections/vedic-world-inquiry/through-markandeyas-encounters/index.md): A reading of adjacent Bhāgavata chapters, from recognition inside an immense world to the devotion its witness asks to keep. ([HTML](https://sleepwalker.in/collections/vedic-world-inquiry/through-markandeyas-encounters/))
+
+- [Markandeya and the size of a world](https://sleepwalker.in/collections/vedic-world-inquiry/through-markandeyas-encounters/markandeya-and-the-size-of-a-world/index.md): Inside the cosmic child, Markandeya recognises his hermitage. The familiar survives the impossible change of scale. ([HTML](https://sleepwalker.in/collections/vedic-world-inquiry/through-markandeyas-encounters/markandeya-and-the-size-of-a-world/))
+
+- [What the witness asks for](https://sleepwalker.in/collections/vedic-world-inquiry/through-markandeyas-encounters/reading-a-tradition/index.md): The Bhāgavata continues beyond Markandeya's cosmic encounter into absorption and devotion, changing the question the spectacle seemed to answer. ([HTML](https://sleepwalker.in/collections/vedic-world-inquiry/through-markandeyas-encounters/reading-a-tradition/))
+
+- [Sleepwalker](https://sleepwalker.in/index.md): A mythic science-fiction story of seven children, an impossible book and ruins on distant worlds that answer their dreams. ([HTML](https://sleepwalker.in/))
+
+- [Privacy notice](https://sleepwalker.in/privacy/index.md): Website hosting, email contact, reading preferences and external reading assistance for RTEPL's editorial publications. ([HTML](https://sleepwalker.in/privacy/))
+
+- [Search](https://sleepwalker.in/search/index.md): Find pages, articles and collections from Sleepwalker. ([HTML](https://sleepwalker.in/search/))
+
+- [Terms of use](https://sleepwalker.in/terms/index.md): Use and reuse of RTEPL's editorial publications and contact with the publisher. ([HTML](https://sleepwalker.in/terms/))
+
+

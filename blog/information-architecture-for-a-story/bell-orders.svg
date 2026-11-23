@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="770" viewBox="0 0 420 770" role="img" aria-labelledby="bell-title bell-desc">
+<title id="bell-title">The bell, its witnesses and its telling</title>
+<desc id="bell-desc">Events, witness knowledge and reader discovery follow three sequences. Moving the bell to one o’clock changes who can hear it. Showing the account first changes reader inference while event times stay the same.</desc>
+<text x="20" y="30" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="500" text-anchor="start">What happens</text>
+<text x="72" y="78" fill="var(--color-ink, #322c3d)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">12:00</text>
+<text x="72" y="112" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">Bell rings</text>
+<text x="210" y="78" fill="var(--color-ink, #322c3d)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">12:15</text>
+<text x="210" y="112" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">First witness</text>
+<text x="210" y="138" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">leaves</text>
+<text x="348" y="78" fill="var(--color-ink, #322c3d)" font-family="var(--world-type-numeric-family, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">12:30</text>
+<text x="348" y="112" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">Third witness</text>
+<text x="348" y="138" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">arrives</text>
+<path d="M76 163H198 M192 159L198 163L192 167" fill="none" stroke="var(--color-ink, #322c3d)" stroke-width="1.5"/>
+<path d="M213 163H344 M338 159L344 163L338 167" fill="none" stroke="var(--color-ink, #322c3d)" stroke-width="1.5"/>
+<text x="20" y="232" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="500" text-anchor="start">What a witness knows</text>
+<text x="72" y="280" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">First witness</text>
+<text x="72" y="306" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">hears bell</text>
+<text x="210" y="280" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">First witness</text>
+<text x="210" y="306" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">gives account</text>
+<text x="348" y="280" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">Third witness</text>
+<text x="348" y="306" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">learns from it</text>
+<path d="M76 331H198 M192 327L198 331L192 335" fill="none" stroke="var(--color-ink, #322c3d)" stroke-width="1.5"/>
+<path d="M213 331H344 M338 327L344 331L338 335" fill="none" stroke="var(--color-ink, #322c3d)" stroke-width="1.5"/>
+<text x="20" y="400" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="500" text-anchor="start">What the reader discovers</text>
+<text x="72" y="448" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">Stopped</text>
+<text x="72" y="474" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">clock appears</text>
+<text x="210" y="448" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">Bell</text>
+<text x="210" y="474" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">appears</text>
+<text x="348" y="448" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">Account</text>
+<text x="348" y="474" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">appears</text>
+<path d="M76 499H198 M192 495L198 499L192 503" fill="none" stroke="var(--color-ink, #322c3d)" stroke-width="1.5"/>
+<path d="M213 499H344 M338 495L344 499L338 503" fill="none" stroke="var(--color-ink, #322c3d)" stroke-width="1.5"/>
+<path d="M20 544H400" fill="none" stroke="var(--color-ink, #322c3d)" stroke-width="1.5"/>
+<text x="105" y="582" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="500" text-anchor="middle">Move the event</text>
+<text x="315" y="582" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="500" text-anchor="middle">Move the account</text>
+<text x="105" y="623" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">Ring at 13:00</text>
+<text x="315" y="623" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">Before the clock</text>
+<path d="M105 638V664 M101 658L105 664L109 658" fill="none" stroke="var(--color-ink, #322c3d)" stroke-width="1.5"/>
+<path d="M315 638V664 M311 658L315 664L319 658" fill="none" stroke="var(--color-ink, #322c3d)" stroke-width="1.5"/>
+<text x="105" y="696" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">First witness</text>
+<text x="105" y="722" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">cannot hear it</text>
+<text x="315" y="696" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">Reader suspects</text>
+<text x="315" y="722" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="20" font-weight="400" text-anchor="middle">the clock sooner</text>
+<text x="315" y="755" fill="var(--color-ink, #322c3d)" font-family="var(--type-family-reading, sans-serif)" font-size="18" font-weight="400" text-anchor="middle">Times unchanged</text>
+</svg>

@@ -34,6 +34,8 @@ For privacy questions, a grievance or a request concerning your personal data, w
 
 The display settings remember your colour and motion choices in your browser on this device. You can change them in Settings or clear the website's stored data through your browser. These preferences are used to display the page; they stay in your browser and are not sent to us.
 
+After a page loads, your browser may request a few linked pages from the same site and keep copies on this device. These are ordinary page requests to the site's host. The browser can discard the copies, and clearing the site's stored data removes them.
+
 <a id="asking-about-a-passage"></a>
 
 ## Asking about a passage

@@ -15,4 +15,18 @@
 - [About Sleepwalker](https://sleepwalker.in/about/index.md): A mythic science-fiction graphic novel by Harsh Joshi, with an inquiry into its Vedic world and methods for making it. ([HTML](https://sleepwalker.in/about/))
 
 
+## Collections
+
+- [Creative methods](https://sleepwalker.in/collections/creative-methods/index.md): How visual intention, generative tools and structured continuity can support deliberate making. ([HTML](https://sleepwalker.in/collections/creative-methods/))
+
+- [The Vedic-world inquiry](https://sleepwalker.in/collections/vedic-world-inquiry/index.md): Markandeya's changing encounters and the movement of inward sound open questions about scale, attention and devotion. ([HTML](https://sleepwalker.in/collections/vedic-world-inquiry/))
+
+
+## Reading journeys
+
+- [From frame to sequence](https://sleepwalker.in/collections/creative-methods/from-frame-to-sequence/index.md): Carry a visual choice through character continuity into the reader's inference between panels. ([HTML](https://sleepwalker.in/collections/creative-methods/from-frame-to-sequence/))
+
+- [Through Markandeya's encounters](https://sleepwalker.in/collections/vedic-world-inquiry/through-markandeyas-encounters/index.md): A reading of adjacent Bhāgavata chapters, from recognition inside an immense world to the devotion its witness asks to keep. ([HTML](https://sleepwalker.in/collections/vedic-world-inquiry/through-markandeyas-encounters/))
+
+
 

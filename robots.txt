@@ -1,3 +1,5 @@
+# Terms of use: https://sleepwalker.in/terms/
+
 User-agent: *
 Allow: /
 
@@ -32,7 +34,7 @@ User-agent: anthropic-ai
 Disallow: /
 
 User-agent: Google-Extended
-Disallow: /
+Allow: /
 
 User-agent: Applebot-Extended
 Disallow: /

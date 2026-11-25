@@ -2,9 +2,7 @@ Title: Sleepwalker
 
 [Read HTML](https://sleepwalker.in/)
 
-![A reader sits at a window as the whole city and its circular tower emerge beyond it.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/opening/landscape/still.webp)
-
-![A reader sits at a window as the whole city and its circular tower emerge beyond it.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/opening/portrait/still.webp)
+![A reader sits at a window as the whole city and its circular tower emerge beyond it.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/opening/landscape/still.webp) 
 
 <a id="sleepwalker"></a>
 
@@ -26,9 +24,7 @@ Seven children, *one impossible book.*
 
 Distant ruins, *calling them back.*
 
-![A seated figure in orange faces a tall mechanical figure in a luminous vaulted room.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/encounter/landscape/still.webp)
-
-![A seated figure in orange faces a tall mechanical figure in a luminous vaulted room.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/encounter/portrait/still.webp)
+![A seated figure in orange faces a tall mechanical figure in a luminous vaulted room.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/encounter/landscape/still.webp) 
 
 <a id="the-dreams-reach-beyond-sleep"></a>
 
@@ -40,7 +36,7 @@ Their dreams carry details of places they have never seen. The ruins begin to st
 
 ## Other worlds
 
-![Tall architectural forms rise among trees and dense foliage in green mist.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/forest/landscape/still.webp)
+![Tall architectural forms rise among trees and dense foliage in green mist.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/forest/landscape/still.webp) 
 
 <a id="the-world-they-inherit"></a>
 
@@ -48,7 +44,7 @@ Their dreams carry details of places they have never seen. The ruins begin to st
 
 The future keeps its records, yet much of its past is unreadable. Names and rituals survive what they once meant.
 
-![Dense urban façades and signs glow red and turquoise through haze.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/city/landscape/still.webp)
+![Dense urban façades and signs glow red and turquoise through haze.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/city/landscape/still.webp) 
 
 <a id="growing-up-between-worlds"></a>
 
@@ -58,9 +54,7 @@ The children have to live with what they see.
 
 [Years later](https://sleepwalker.in/#the-dreams-are-not-finished)
 
-![A red-scarfed observer stands in a stone forecourt facing the city, its circular tower and water channels.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/coda/landscape/still.webp)
-
-![A red-scarfed observer stands in a stone forecourt facing the city, its circular tower and water channels.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/coda/portrait/still.webp)
+![A red-scarfed observer stands in a stone forecourt facing the city, its circular tower and water channels.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/coda/landscape/still.webp) 
 
 <a id="the-dreams-are-not-finished"></a>
 

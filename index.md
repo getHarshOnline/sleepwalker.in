@@ -2,8 +2,6 @@ Title: Sleepwalker
 
 [Read HTML](https://sleepwalker.in/)
 
-Author: Harsh Joshi
-
 ![A reader sits at a window as the whole city and its circular tower emerge beyond it.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/opening/landscape/still.webp)
 
 ![A reader sits at a window as the whole city and its circular tower emerge beyond it.](https://sleepwalker.in/assets/content/sleepwalker/media/painted-scenes/opening/portrait/still.webp)
@@ -76,6 +74,6 @@ The book is lost. Years later, the ruins draw them back together.
 
 Seven lives, scattered by the same impossible childhood.
 
-A graphic novel in the making by [Harsh Joshi](https://getharsh.in/about/), with [an inquiry into its Vedic world and the methods of making it](https://sleepwalker.in/collections/).
+A graphic novel in the making by [Harsh Joshi](https://getharsh.in/about/) (on getHarsh), with [an inquiry into its Vedic world and the methods of making it](https://sleepwalker.in/collections/).
 
 [About Sleepwalker](https://sleepwalker.in/about/)

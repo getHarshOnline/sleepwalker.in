@@ -2,8 +2,6 @@ Title: Creative methods
 
 [Read HTML](https://sleepwalker.in/collections/creative-methods/)
 
-Author: Harsh Joshi
-
 A figure at a threshold can be smaller than the opening and still hold the centre of a composition. Moving the figure, widening the frame or changing the contrast alters that relationship. The useful discovery is more particular than “this looks good”: something in the arrangement makes the image carry an idea.
 
 In [Sleepwalker's Home](https://sleepwalker.in/), the closing view puts a red-scarfed figure on the approach to a circular tower. The city has scale, but the small person facing it gives me a way into that scale. [An image is a beginning](https://sleepwalker.in/collections/creative-methods/from-frame-to-sequence/an-image-is-a-beginning/) starts with that frame and asks what would need to survive a revision.

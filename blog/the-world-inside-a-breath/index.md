@@ -10,7 +10,7 @@ Author: Harsh Joshi
 
 A breath gives an immense world somewhere intimate to begin. Attend to its beginning and end, then imagine an entire life passing within it. From inside that life there were mornings, work, waiting and people who mattered. From the other frame, barely a moment. What would let a reader encounter both scales without losing the person inside the smaller one?
 
-This is one of the questions behind Sleepwalker. In [Breath of Cosmos](https://getharsh.in/blog/breath-of-cosmos/), I begin with a breathing pattern as an input to an imagined model of consciousness, then extend the comparison into cosmic time. The argument makes a definite choice: the cosmic duration is unbounded, while the human breath remains a finite, nonzero interval. Its ratio is infinite. Here I want to follow what that construction makes possible for a story and an image.
+This is one of the questions behind Sleepwalker. In [Breath of Cosmos](https://getharsh.in/blog/breath-of-cosmos/) (on getHarsh), I begin with a breathing pattern as an input to an imagined model of consciousness, then extend the comparison into cosmic time. The argument makes a definite choice: the cosmic duration is unbounded, while the human breath remains a finite, nonzero interval. Its ratio is infinite. Here I want to follow what that construction makes possible for a story and an image.
 
 <a id="the-interval-stays-small-the-frame-keeps-opening"></a>
 

@@ -2,13 +2,11 @@ Title: About Sleepwalker
 
 [Read HTML](https://sleepwalker.in/about/)
 
-Author: Harsh Joshi
-
 Seven children encounter an impossible book. Years later, with the book lost and their lives scattered, dreams of ruins on distant worlds draw them back together.
 
 Sleepwalker is a mythic science-fiction graphic novel. Its questions about time, memory and consciousness also find room in an inquiry and in methods of making: reading a passage closely, following what a witness can know, or discovering how a page turn changes a scene.
 
-[Harsh Joshi](https://getharsh.in/about/) is developing the story and its world. Sleepwalker is a project of RawThoughts Enterprises Private Limited (RTEPL).
+[Harsh Joshi](https://getharsh.in/about/) (on getHarsh) is developing the story and its world. Sleepwalker is a project of RawThoughts Enterprises Private Limited (RTEPL).
 
  
 

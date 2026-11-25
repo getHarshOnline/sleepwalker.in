@@ -2,13 +2,11 @@ Title: Terms of use
 
 [Read HTML](https://sleepwalker.in/terms/)
 
-Author: Harsh Joshi
-
 <a id="terms-of-use"></a>
 
 # Terms of use
 
-RawThoughts Enterprises Private Limited (RTEPL) publishes and operates [RawThoughts](https://rawthoughts.in/), [Causality](https://causality.in/), [Sleepwalker](https://sleepwalker.in/) and [Post-AGI Economics](https://post-agi-economics.org/). These terms concern your use of rawthoughts.in, causality.in, sleepwalker.in and post-agi-economics.org, and of every subdomain of them, such as the documentation at docs.rawthoughts.in and docs.causality.in.
+RawThoughts Enterprises Private Limited (RTEPL) publishes and operates [RawThoughts](https://rawthoughts.in/) (on RawThoughts), [Causality](https://causality.in/) (on Causality), [Sleepwalker](https://sleepwalker.in/) and [Post-AGI Economics](https://post-agi-economics.org/) (on Post-AGI Economics). These terms concern your use of rawthoughts.in, causality.in, sleepwalker.in and post-agi-economics.org, and of every subdomain of them, such as the documentation at docs.rawthoughts.in and docs.causality.in.
 
 <a id="reading-and-reusing-material"></a>
 

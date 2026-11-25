@@ -2,13 +2,11 @@ Title: Privacy notice
 
 [Read HTML](https://sleepwalker.in/privacy/)
 
-Author: Harsh Joshi
-
 <a id="privacy-notice"></a>
 
 # Privacy notice
 
-RawThoughts Enterprises Private Limited (RTEPL) is responsible for deciding how personal data is used on [rawthoughts.in](https://rawthoughts.in/), [causality.in](https://causality.in/), [sleepwalker.in](https://sleepwalker.in/) and [post-agi-economics.org](https://post-agi-economics.org/), and on their subdomains, including the documentation at docs.rawthoughts.in and docs.causality.in. RTEPL publishes and operates these websites. This notice explains the information handled when you read these websites or use their contact and reading tools.
+RawThoughts Enterprises Private Limited (RTEPL) is responsible for deciding how personal data is used on [rawthoughts.in](https://rawthoughts.in/) (on RawThoughts), [causality.in](https://causality.in/) (on Causality), [sleepwalker.in](https://sleepwalker.in/) and [post-agi-economics.org](https://post-agi-economics.org/) (on Post-AGI Economics), and on their subdomains, including the documentation at docs.rawthoughts.in and docs.causality.in. RTEPL publishes and operates these websites. This notice explains the information handled when you read these websites or use their contact and reading tools.
 
 <a id="visiting-the-website"></a>
 
